@@ -1,7 +1,7 @@
 ## HTML5 Events List
 
-|Sl.No|Event                |Description                                         |
-|-----|---------------------|----------------------------------------------------|
+|Sl.No|Event          |Description                                         |
+|-----|---------------|----------------------------------------------------|
 | 01. |offline				|Triggers when the document goes offline|
 | 02. |onabort				|Triggers on an abort event|
 | 03. |onafterprint		|Triggers after the document is printed|
